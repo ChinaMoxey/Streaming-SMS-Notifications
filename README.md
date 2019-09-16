@@ -1,6 +1,6 @@
 # Streaming-SMS-Notifications
   
-###Twitch 
+### Twitch 
  
 For this project we will be following along with a freecode camp tutorial on how to set up an sms notification for whenever your favorite Twitch Streamer goes live. 
 > The link for the article we will be posted below:
@@ -8,7 +8,7 @@ For this project we will be following along with a freecode camp tutorial on how
  
 During this project, contributors will become more familiar with API's specifically Twitch API and Twilio API. Also if contributors are unfamiliar with Python which will be the language we are using for this project this is a great chance to get used to it and learn something new to add to your resume.
  
-###Mixxer
+### Mixxer
  
 It's boring to follow a tutorial and call it your own so we will be taking this project a step further by not only trying to set up an sms notification for twitch but to also set up a notification system for Mixxer just in case any one is interested in following Ninja or any other high quality streamers on the Mixxer site. This will also get contributors familiar with Mixxer's API and developer tools.
  
@@ -18,7 +18,7 @@ For this project we will need around five people to contribute via Github and as
  
 >https://github.com/
  
-###Contributors List
+### Contributors List
 
 
 
