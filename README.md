@@ -19,11 +19,11 @@ For this project we will need around five people to contribute via Github and as
 >https://github.com/
  
 ###Contributors 
-1.
-2.
-3.
-4.
-5.
+1.------
+2.------
+3.------
+4.------
+5.------
 
 
 
