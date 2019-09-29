@@ -24,7 +24,6 @@ if last_messages_sent:
 else:
 	online_notified, offline_notified = False, False
 
-online_notified, offline_notified = False, False
 if at_least_one_stream_active and not online_notified:
 	print("File Test")
 	client.messages.create(body='Your streamer is Live !!!',from_='+12055462716',to='+13478337658')
